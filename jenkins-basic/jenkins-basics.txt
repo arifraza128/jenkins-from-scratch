@@ -1,0 +1,8 @@
+here i uploaded the basics how to install jenkins
+what important things important to run jenkins
+install java first
+then give jenkins key
+then install jenkins
+in inbound setting create port no 8080 with ip address
+start jenkins by giving port 8080 
+then sign in to jenkins
