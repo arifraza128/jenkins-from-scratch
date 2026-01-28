@@ -1,0 +1,5 @@
+here i get to know how to create declaratiive pipeline 
+how i can build , test , run , deploy .
+how i can use docker in pipeline 
+got to know about jenkins shared libraries.
+how to use that library
