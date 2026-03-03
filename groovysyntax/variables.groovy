@@ -17,3 +17,11 @@ def semester = 6
 
 println(marks)
 println(semester)
+
+#Decimal
+
+def percentage = 85.5
+def cgpa = 8.2
+
+println(percentage)
+println(cgpa)
