@@ -1,1 +1,1 @@
-
+Code → GitHub → Jenkins → Docker Build → DockerHub → Kubernetes → Deployment → Service → Users
